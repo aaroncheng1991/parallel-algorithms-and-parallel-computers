@@ -1,0 +1,10 @@
+The parallel_lab folder is structured as follows:
+	> A: assignment a
+	> B: assignment b
+	> C: assignment c
+
+To run each assignment, run the following compile script in the terminal under the path of the corresponding folder:
+
+	> make openmp-run: run the openmp version
+	> make pthreads-run: run the pthreads version
+	> make clean: delete all executables
